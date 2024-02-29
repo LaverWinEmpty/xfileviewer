@@ -2,6 +2,6 @@
 
 int main()
 {
-    Core::HideConsole();
+    FreeConsole();
     return Core::Run();
 }

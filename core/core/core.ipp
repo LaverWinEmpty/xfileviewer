@@ -1,11 +1,5 @@
 #include "core.hpp"
 
-void Core::HideConsole()
-{
-    auto console = GetConsoleWindow();
-    ShowWindow(console, SW_HIDE);
-}
-
 void Core::Input(const float deltaTime)
 {
     InputUtil::MouseWheel();

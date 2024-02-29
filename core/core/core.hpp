@@ -18,9 +18,6 @@ private:
     static void Cleanup();
 
 public:
-    static void HideConsole();
-
-public:
     static int Run();
 };
 
