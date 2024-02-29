@@ -15,3 +15,11 @@ The docs.txt file is completely empty.
 Load the x file and texture file using the Windows GUI.
 
 And the texture load will repeat as many times as necessary.
+
+## How To Use
+
+Mouse L Button: Rotate
+
+Mouse R Button: Move
+
+Mouse Wheel Up/Down: Scale Up/Down
